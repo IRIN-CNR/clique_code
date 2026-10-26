@@ -1,0 +1,13 @@
+{
+	"spikes_file": "my_absolute_path/activity_network.hdf5",
+	"positions_file": "my_absolute_path/positions.hdf5",
+	"results_dir": "results_absolute_path",
+	"start_time_ms": 1000,
+	"end_time_ms": 9000,
+	"bin_size_ms": 10,
+	"min_active_bins_fraction": 0.1,
+	"max_different_bins_fraction": 0.15,
+	"max_active_neurons": 10000,
+	"min_connected_component_size": 10,
+	"min_clique_size": 5
+}
